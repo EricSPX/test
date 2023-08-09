@@ -1,38 +1,5 @@
 {
- "cwbdata": {
-  "@xsi:schemaLocation": "urn:cwb.gov.tw:cwbdata-0.1 https://opendata.cwb.gov.tw/XSD/CWB-data.xsd",
-  "@xmlns": "urn:cwb.gov.tw:cwbdata-0.1",
-  "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-  "identifier": "e40037b1-ae6a-404e-9579-3688ad35146c",
-  "datasetID": "S0001",
-  "datasetName": "過去氣象觀測",
-  "dataItemID": "S0001-01000",
-  "sender": "weather@cwb.gov.tw",
-  "sent": "2023-08-09T13:35:04+08:00",
-  "status": "Actual",
-  "scope": "Public",
-  "msgType": "Issue",
-  "publisherOID": "2.16.886.101.20003.20008.20004",
-  "resources": {
-   "resource": {
-    "metadata": {
-     "resourceID": "S0001-01000-003",
-     "resourceName": "中央氣象局氣候觀測_逐月_多要素氣象資料",
-     "resourceDescription": "氣象局所屬氣象觀測站，逐月的各項氣象因子資料。",
-     "language": "zh",
-     "homepage": "http://e-service.cwb.gov.tw/wdps/obs/state.htm",
-     "sources": {
-      "source": [
-       {
-        "title": "中央氣象局氣象測站代號及站況資料",
-        "path": "http://e-service.cwb.gov.tw/wdps/obs/state.htm"
-       },
-       {
-        "title": "Abbreviation for unit of measure - as defined within WMO No. 306 Common code-table C-6 1List of units for TDCFs1. (use wmo abbreviation)",
-        "path": "http://codes.wmo.int/common/unit"
-       }
-      ]
-     },
+
      "temporal": {
       "startTime": "2023-07-01T00:00:00+08:00",
       "endTime": "2023-07-31T00:00:00+08:00"
